@@ -1,5 +1,5 @@
 ## 👨🏽‍🚀 Hello World, I'm Leandro Neto
-<img align="right" alt="LeandroNeto-HTML" height="200" width="400" src="./img/mario.gif">
+<img align="right" alt="LeandroNeto-HTML" height="180" width="370" src="./img/mario.gif">
 
 <div align="left"> 
   
