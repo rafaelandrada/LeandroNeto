@@ -1,4 +1,16 @@
 ## Hello World, I'm Leandro Neto
+<img align="right" alt="LeandroNeto-HTML" height="180" width="460" src="./img/mario.gif">
+
+<div align="left"> 
+  
+- 🦄 &nbsp; Explorando novas tecnologias
+- 🎓 &nbsp; Formado em Análise e  Desenvolvimento de Sistemas
+- 💼 &nbsp; Trabalhando como Desenvolvedor
+- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
+- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
+- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
+  
+</div>
 
 ### Seja bem vindo(a) ao meu laboratório! 🔬🧪
 
@@ -8,7 +20,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNeto&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
- 
+    
   <div style="display: inline_block text-decoration: none"><br>
     <img align="center" alt="LeandroNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="LeandroNeto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
