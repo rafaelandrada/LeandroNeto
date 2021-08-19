@@ -1,18 +1,19 @@
 ## Hello World, I'm Leandro Neto
-<img align="right" alt="LeandroNeto-HTML" height="180" width="460" src="./img/mario.gif">
+<img align="right" alt="LeandroNeto-HTML" height="200" width="450" src="./img/mario.gif">
 
 <div align="left"> 
   
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas
+- 💼 &nbsp; Trabalhando como Desenvolvedor de Software
+- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
 - 🦄 &nbsp; Explorando novas tecnologias
-- 🎓 &nbsp; Formado em Análise e  Desenvolvimento de Sistemas
-- 💼 &nbsp; Trabalhando como Desenvolvedor
-- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
-- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
-- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
+- 👽 &nbsp; Em busca de conhecimento
+- ☕️ &nbsp; Aceita uma xícara de café?
   
 </div>
+&nbsp;
 
-### Seja bem vindo(a) ao meu laboratório! 🔬🧪
+## Seja bem vindo(a) ao meu laboratório! 🔬🧪
 
 <div>
   <a href="https://github.com/LeandroNeto">  
