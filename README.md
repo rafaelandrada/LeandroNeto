@@ -1,4 +1,4 @@
-## Olá, eu sou o Leandro Neto
+## Hello World, I'm Leandro Neto
 
 ### Seja bem vindo(a) ao meu laboratório! 🔬🧪
 
