@@ -1,5 +1,5 @@
 ## 👨🏽‍🚀 Hello World, I'm Leandro Neto
-<img align="right" alt="LeandroNeto-HTML" height="180" width="370" src="./img/mario.gif">
+<img align="top" alt="HTML" height="180" width="370" src="https://2vplsu2wo1292qcj331fo1gj-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/linux_penguin.jpg">
 
 <div align="left"> 
   
